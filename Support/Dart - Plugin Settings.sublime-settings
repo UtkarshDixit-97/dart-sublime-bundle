@@ -46,7 +46,7 @@
 	"dart_user_browsers": { },
 
 	// If 'true', sends anonymous usage data about this plugin.
-	"dart_enable_telemetry": true,
+	"dart_enable_telemetry": false,
 
 	// If 'true', the analysis server will run in the background.
 	"dart_enable_analysis_server": true,

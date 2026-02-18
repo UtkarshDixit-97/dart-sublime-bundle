@@ -28,7 +28,7 @@ class HitBase(object):
 
         setts = sublime.load_settings(
             'Dart - Plugin Settings.sublime-settings')
-        self._enabled = setts.get('dart_enable_telemetry') is True
+        self._enabled = setts.get('dart_enable_telemetry') is False
 
         # Test tracking id: UA-55288482-1
         self.tracking_id = 'UA-55288482-1'

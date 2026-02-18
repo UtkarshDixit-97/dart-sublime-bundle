@@ -8,9 +8,6 @@ The Sublime Text Dart Package has been updated!
 This version adds telemetry to this plugin. Telemetry is enabled by default
 and collects data anonymously via Google Analytics.
 
-To disable telemetry, set dart_enable_telemetry to `false` in your user
-settings for the Dart plugin.
-
 ******************************************************************************
 ==============================================================================
 
